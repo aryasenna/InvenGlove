@@ -22,4 +22,4 @@ Minimum hardware requirements (barebone):
 
 (see Eagle PCB schematics and the codes for now, proper documentation should be available soon.)
 
-InvenGlove is part of capstone project on Dept. of Mechanical Engineering Universitas Indonesia.
+InvenGlove is part of capstone project on Dept. of Mechanical Engineering, Universitas Indonesia.
