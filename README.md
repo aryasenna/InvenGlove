@@ -4,7 +4,7 @@ InvenGlove
 An initial prototype of a data glove system for Virtual Assembly. 
 
 
-InvenGlove captures hand motion and finger flex (respectively using Inertial Measurement Unit (IMU)  and flex sensors) connected to   Arduino Mini Pro. The gloves interfaced with a PC that runs an API program (InvenGlove Connector) which interprets the sensors readings into object rotation, translation and zoom control inside Autodesk Inventor.
+InvenGlove captures hand motion and finger flex (respectively using Inertial Measurement Unit (IMU)  and flex sensors) connected to   Arduino Mini Pro. The gloves is to be interfaced with a PC that runs an small program (InvenGlove Connector) which interprets the sensors readings into object rotation, translation and zoom control inside Autodesk Inventor.
 
 Minimum hardwares requirments (barebone):
 
